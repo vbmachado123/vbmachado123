@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFKZcOT88tvNw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=Hl9Xnw3qvedYKng_F9ir8rDovc-faGuljlhlciZO6kA">
 
 
 # Victor Balbino
