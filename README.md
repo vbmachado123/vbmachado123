@@ -3,6 +3,10 @@
 
 # Victor Balbino
 
+[!vbmachado123 github stats](https://github-readme-stats.vercel.app/api?username=vbmachado123&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true&include_all_commits=true)](https://github.com/vbmachado123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmachado123&hide=html&layout=compact)](https://github.com/vbmachado123)
+
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
