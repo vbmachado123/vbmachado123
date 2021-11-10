@@ -19,7 +19,7 @@
  
  ##
  
- <div style="display: inline_block"><br> 
+ <div style="  height: 10em; display: flex;align-items: center;"><br> 
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
