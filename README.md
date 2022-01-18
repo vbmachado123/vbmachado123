@@ -1,4 +1,4 @@
-## Olá Pessoal! Sou o Victor Balbino 👋
+## Olá Pessoal! Somos a TeVitto! Empresa focada em design e desenvolvimento 👋
 
 - Sou apaixonado por resolver problemas utilizando a programação.
 - Sou um FullStack Developer :computer:
