@@ -1,4 +1,4 @@
-## Olá Pessoal! Somos a TeVitto! Empresa focada em design e desenvolvimento 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=0E00BE&background=FFFFFFD8&width=435&lines=Ol%C3%A1%2C+somos+a+teVitto!+;Especialistas+em+design+e+desenvolvimento!+;Seja+bem-vindo+ao+nosso+perfil)](https://git.io/typing-svg)
 
 - Sou apaixonado por resolver problemas utilizando a programação.
 - Sou um FullStack Developer :computer:
